@@ -1,5 +1,6 @@
 ---
 title: Future Students
-layout: page
+layout: default
 sort: 3
+redirect: /pages/college/prospective-students/life-at-ohc.html
 ---
